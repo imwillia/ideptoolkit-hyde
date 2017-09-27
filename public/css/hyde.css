@@ -31,6 +31,14 @@
  * Update the foundational and global aspects of the page.
  */
 
+.en:lang(en), .sp:lang(sp){
+  font-weight: bold;
+}
+
+.en, .sp {
+  text-transform: uppercase;
+}
+
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
