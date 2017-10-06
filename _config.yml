@@ -32,5 +32,8 @@ t:
     title:        'IDEP Partners Toolkit'
     description:  'A guide to standards and workflows for IDEP partner institutions.'
   spa:
-    title:        'Kit de herramientas para socios IDEP'
+    title:        ''
     description:  'Una guía de estándares y flujos de trabajo para las instituciones asociadas al IDEP.'
+  arm:
+    title:        ''
+    description:  'IDEP գործընկեր հաստատությունների համար ստանդարտների եւ աշխատանքի արդյունքի ուղեցույց:'
