@@ -2,16 +2,14 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{% if page.lang != site.defaultlang %}{{ page.lang | prepend: site.baseurl }}{% else %}{{ site.baseurl }}{% endif %}">
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p class="lead">{{ site.t[page.lang].description }}</p>
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
@@ -28,7 +26,7 @@
         {% endif %}
       {% endfor %}
 
-      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+      {% assign pages=site.pages | where:"ref", "home" | sort: 'lang' %}
       {% for page in pages %}
         <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
       {% endfor %}

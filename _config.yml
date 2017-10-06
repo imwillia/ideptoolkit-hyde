@@ -24,3 +24,13 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+defaultlang:      eng
+
+t:
+  eng:
+    title:        'IDEP Partners Toolkit'
+    description:  'A guide to standards and workflows for IDEP partner institutions.'
+  spa:
+    title:        'Kit de herramientas para socios IDEP'
+    description:  'Una guía de estándares y flujos de trabajo para las instituciones asociadas al IDEP.'

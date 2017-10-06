@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Metadata Guidelines
-lang: en
+lang: eng
 ref: metadata
 permalink: /metadata
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digitization (Print/Image)
-lang: en
+lang: eng
 ref: digprint
 permalink: /digprint
 ---

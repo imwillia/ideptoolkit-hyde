@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Session Checklist (Print/Image)
-lang: en
+lang: eng
 ref: checklist
 permalink: /checklist
 ---

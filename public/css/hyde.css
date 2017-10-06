@@ -31,11 +31,11 @@
  * Update the foundational and global aspects of the page.
  */
 
-.en:lang(en), .sp:lang(sp){
+.eng:lang(eng), .spa:lang(spa){
   font-weight: bold;
 }
 
-.en, .sp {
+.eng, .spa {
   text-transform: uppercase;
 }
 

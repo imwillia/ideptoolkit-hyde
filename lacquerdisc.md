@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lacquer Disc Transfer
-lang: en
+lang: eng
 ref: lacquer
 permalink: /lacquer
 ---

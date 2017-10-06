@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Transfert de disque de laque
-lang: sp
+lang: spa
 ref: lacquer
-permalink: /lacquer-sp
+permalink: /lacquer-spa
 ---
 
 ### GUÍA RÁPIDA

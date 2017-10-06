@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MiniDV Transfer
-lang: en
+lang: eng
 ref: minidv
 permalink: /minidv
 ---

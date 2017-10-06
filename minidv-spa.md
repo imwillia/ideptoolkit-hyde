@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Transfert MiniDV
-lang: sp
+lang: spa
 ref: minidv
-permalink: /minidv-sp
+permalink: /minidv-spa
 ---
 
 ### Lista de Equipos:
