@@ -21,7 +21,7 @@
           {% if node.layout == "page" %}
             {% if node.lang == page.lang %}
               <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{% if page.lang != site.defaultlang %}{{ page.lang | prepend: site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-            {% endif %}
+
           {% endif %}
         {% endif %}
       {% endfor %}
