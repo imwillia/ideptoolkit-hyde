@@ -1,5 +1,4 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
@@ -10,12 +9,12 @@ permalink:        pretty
 title:            IDEP Partners Toolkit
 tagline:          'UCLA'
 description:      'A guide to standards and workflows for IDEP partner institutions.'
-url:              http://hyde.getpoole.com
+url:              http://digital.library.ucla.edu/ideptoolkit
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Dawn Childress'
+  url:
 
 paginate:         5
 
@@ -23,7 +22,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/uclalibrary/ideptoolkit
 
 defaultlang:      eng
 
