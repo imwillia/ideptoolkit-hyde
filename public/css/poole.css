@@ -294,6 +294,17 @@ tbody tr:nth-child(odd) th {
   margin-left:  auto;
   margin-right: auto;
 }
+.container-footer {
+  padding: 2rem 1rem 2rem;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  text-align: center;
+  font-size: smaller;
+  color: #9a9a9a;
+}
 
 
 /*
