@@ -50,7 +50,7 @@ body {
 html {
   font-family: "Roboto Slab", Georgia, serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 @media (min-width: 38em) {
   html {
@@ -59,7 +59,7 @@ html {
 }
 
 body {
-  color: #515151;
+  color: #333;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -85,11 +85,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto Slab";
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #333;
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 1.7rem;
+  font-size: 2rem;
 }
 h2 {
   margin-top: 1rem;

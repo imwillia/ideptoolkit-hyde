@@ -25,7 +25,8 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
+    </nav>
+    <nav>
       {% assign pages=site.pages | where:"ref", "home" | sort: 'lang' %}
       {% for page in pages %}
         <a href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
