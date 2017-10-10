@@ -26,18 +26,17 @@
         {% endif %}
       {% endfor %}
     </nav>
-    <nav>
+    <nav class="sidebar-nav-lang">
       {% assign pages=site.pages | where:"ref", "home" | sort: 'lang' %}
       {% for page in pages %}
         <a href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
       {% endfor %}
       </ul>
-
       <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
+      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
 
-    <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
+    <!-- <p>&copy; {{ site.time | date: '%Y' }}. Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">CC BY-NC-SA 3.0.</a></p> -->
   </div>
 </div>
