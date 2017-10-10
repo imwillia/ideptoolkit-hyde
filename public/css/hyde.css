@@ -35,6 +35,25 @@
   text-transform: lowercase;
 }
 
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 19rem;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  left: 19rem;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+
 html {
   font-family: "Noto Serif", Georgia, serif;
 }
