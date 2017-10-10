@@ -32,20 +32,20 @@
  */
 
 .arm, .eng, .spa {
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Serif", Georgia, serif;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 1.05em;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 1.05em;
   }
 }
 
@@ -60,10 +60,29 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-image: url("../../assets/img/nav.jpg");
-  background-attachment: fixed;
-  background-position: center; 
+  color: #fff;
+  background-color: #0c141a;
+  background-size: cover;
+  background-position: relative;
+  color: rgba(255, 255, 255, 0.75);
+}
+.sidebar:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    background-image: url('../../assets/img/nav.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -71,7 +90,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 19rem;
     text-align: left;
   }
 }
@@ -85,8 +104,10 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: "Roboto Slab", Helvetica, sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 /* Sidebar nav */
@@ -96,12 +117,38 @@ html {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
+  font-family: 'Roboto Slab', Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding: .25rem 0;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  text-decoration: none;
+  border-bottom-color: #fff
 }
 .sidebar-nav-item.active {
+  font-weight: bold;
+}
+.sidebar-nav-lang {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  display: block;
+  line-height: 1.75;
+  font-family: 'Roboto Slab', Helvetica, Arial, sans-serif;
+  padding: .25rem 0;
+  font-weight: normal;
+}
+.sidebar-nav-lang-item {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding-right: .6rem;
+}
+a.sidebar-nav-lang:hover,
+a.sidebar-nav-lang:focus {
+  text-decoration: none;
+  border-bottom-color: #fff
+}
+.sidebar-nav-lang.active {
   font-weight: bold;
 }
 
@@ -134,9 +181,10 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
+    max-width: 42rem;
+    padding: 4rem 1rem 12rem;
+    margin-left: 22rem;
+    margin-right: 4rem
   }
 }
 

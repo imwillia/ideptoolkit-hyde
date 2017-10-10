@@ -48,9 +48,9 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Roboto Slab", Georgia, serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 @media (min-width: 38em) {
   html {
@@ -59,7 +59,7 @@ html {
 }
 
 body {
-  color: #515151;
+  color: #333;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -76,15 +76,17 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  text-decoration: none;
+  border-bottom-color: #fff;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
+  font-family: "Roboto Slab";
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #333;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -259,7 +261,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 300;
 }
 
