@@ -41,17 +41,9 @@
   bottom: 0;
   left: 19rem;
   padding: 1rem;
-  background-color: #efefef;
+  color: #9a9a9a;
   text-align: center;
-}
-
-footer {
-  position: absolute;
-  right: 0;
-  left: 19rem;
-  padding: 1rem;
-  background-color: #efefef;
-  text-align: center;
+  font-size: smaller;
 }
 
 html {
@@ -201,7 +193,7 @@ a.sidebar-nav-lang:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 42rem;
-    padding: 4rem 1rem 12rem;
+    padding: 4rem 1rem 6rem;
     margin-left: 22rem;
     margin-right: 4rem
   }
@@ -213,7 +205,32 @@ a.sidebar-nav-lang:focus {
     margin-right: 4rem;
   }
 }
+.content-footer {
+  padding-top:    4rem;
+  padding-bottom: 4rem;
+  right: 0;
+  bottom: 0;
+  color: #9a9a9a;
+  text-align: center;
+  font-size: smaller;
+  position: absolute;
+}
 
+@media (min-width: 48em) {
+  .content-footer {
+    max-width: 42rem;
+    padding: 1rem 1rem 1rem;
+    margin-left: 22rem;
+    margin-right: 4rem
+  }
+}
+
+@media (min-width: 64em) {
+  .content-footer {
+    margin-left: 22rem;
+    margin-right: 4rem;
+  }
+}
 
 /*
  * Reverse layout
