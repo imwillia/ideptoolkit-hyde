@@ -45,7 +45,7 @@ html {
 }
 @media (min-width: 58em) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
@@ -60,7 +60,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: #fff;
   background-image: url("../../assets/img/nav.jpg");
   background-size: cover;
   background-position: center;
@@ -71,7 +71,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 20rem;
     text-align: left;
   }
 }
@@ -86,8 +86,8 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Roboto Slab", Helvetica, sans-serif;
-  font-size: 1.6rem;
-  font-weight: bolder;
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 /* Sidebar nav */
@@ -97,6 +97,10 @@ html {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
+  font-family: 'Roboto Slab', Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding: .25rem 0;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -135,9 +139,10 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
+    max-width: 42rem;
+    padding: 4rem 1rem 12rem;
+    margin-left: 22rem;
+    margin-right: 4rem
   }
 }
 
