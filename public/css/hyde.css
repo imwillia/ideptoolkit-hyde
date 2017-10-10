@@ -71,7 +71,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 20rem;
+    width: 19rem;
     text-align: left;
   }
 }
@@ -88,6 +88,7 @@ html {
   font-family: "Roboto Slab", Helvetica, sans-serif;
   font-size: 2rem;
   font-weight: bold;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 /* Sidebar nav */
@@ -104,10 +105,15 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  text-decoration: none;
+  border-bottom-color: #fff
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+.sidebar-nav-lang {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 /* Sticky sidebar
