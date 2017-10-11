@@ -35,17 +35,6 @@
   text-transform: lowercase;
 }
 
-.footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 19rem;
-  padding: 1rem;
-  color: #9a9a9a;
-  text-align: center;
-  font-size: smaller;
-}
-
 html {
   font-family: "Noto Serif", Georgia, serif;
 }
@@ -161,6 +150,14 @@ a.sidebar-nav-lang:focus {
 }
 .sidebar-nav-lang.active {
   font-weight: bold;
+}
+.sidebar-footer {
+  right: 0;
+  bottom: 0;
+  padding: .1rem;
+  color: #9a9a9a;
+  text-align: left;
+  font-size: .7em;
 }
 
 /* Sticky sidebar
