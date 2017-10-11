@@ -5,7 +5,7 @@ menu: true
 order: 4
 lang: eng
 ref: digprint
-permalink: {{ site.baseurl }}/digprint
+permalink: /digprint
 ---
 
 ### Guidelines for digital capture & post processing using the Nikon D810 digitization kit
