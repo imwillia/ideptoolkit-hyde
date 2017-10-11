@@ -1,6 +1,8 @@
 ---
 layout: page
 title: MiniDV Transfer
+menu: true
+order: 6
 lang: eng
 ref: minidv
 permalink: /minidv
@@ -26,7 +28,7 @@ permalink: /minidv
 
 6. Single edge razor or sharp scissors
 ![](../assets/img/minidv/razor.png)![](../assets/img/minidv/scissor.png)
-<br>**For cleaning the video heads when they become clogged (7-8):**   
+<br>**For cleaning the video heads when they become clogged (7-8):**
 
 7. Lint-free swabs (for cleaning the video heads)
 ![](../assets/img/minidv/swabs.png)
@@ -143,7 +145,7 @@ Occasionally a MiniDV tape will have to be repaired. The tape may have torn or t
 
 1. Most Mini DV tapes have four small screws located on the underside of the casing. Using a small Phillips head screwdriver (approx. 1.4mm size), remove the four screws. Be careful not to let the tape inside unspool or get damaged. Place the screws in a secure location so they can be located easily when you’re done. If your tape does not have screws you will need to break the case open very carefully so the inside tape reels can be removed safely.
  ![](../assets/img/minidv/tape_repairing.png)   ![](../assets/img/minidv/tape2_repairing.png)
-2. Then, carefully join the edges, securing with a small piece of splicing tape on the shiny side. Do not place any tape on the matte or dull surface as that side contains the recording. Carefully trim any splicing tape that hangs over the MiniDV tape edge. It is advised that you wear gloves when handling the tape to avoid damaging the recording surface (despite the poor example photo below).  
+2. Then, carefully join the edges, securing with a small piece of splicing tape on the shiny side. Do not place any tape on the matte or dull surface as that side contains the recording. Carefully trim any splicing tape that hangs over the MiniDV tape edge. It is advised that you wear gloves when handling the tape to avoid damaging the recording surface (despite the poor example photo below).
 ![](../assets/img/minidv/tape3_repairing.png)
 <br>To prevent the tape from unspooling as you’re working, you may secure the hubs with a piece of tape:
 ![](../assets/img/minidv/tape4_repairing.png)

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Transfert de disque de laque
+menu: true
+order: 7
 lang: spa
 ref: lacquer
 permalink: /lacquer-spa
@@ -54,7 +56,7 @@ permalink: /lacquer-spa
 
 3. Los discos con depósitos de ácido palmítico y esteárico serán limpiados con solución de **intensidad aumentada**. Esta versión tiene una concentración más alta de surfactantes. El limpiador puede dejarse actuar por hasta **2 minutos** antes de enjuagar. Los discos con plastificante exudado pueden necesitar varias limpiezas. Se puede añadir amoníaco en pequeñas cantidades - sólo 2-4 gotas, en casos de depósitos superficiales persistentes o abundantes.
 
-4. Ambas soluciones, de intensidad regular y aumentada, se mezclan típicamente en una botella pequeña de aplicación designada en una proporción de:                                                 
+4. Ambas soluciones, de intensidad regular y aumentada, se mezclan típicamente en una botella pequeña de aplicación designada en una proporción de:
 **2 partes de limpiador y 1 parte de agua destilada.**
 
 5. Para prevenir confusiones entre ambas soluciones, las botellas que contienen la solución aumentada están marcadas claramente con puntos **rojos**.

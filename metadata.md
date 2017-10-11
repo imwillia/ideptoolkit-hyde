@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Metadata Guidelines
+menu: true
+order: 2
 lang: eng
 ref: metadata
 permalink: /metadata
@@ -21,7 +23,7 @@ Since metadata contributors may not have the time or resources to conform to all
 
 * Required metadata elements: these elements must be supplied for all digital objects or collections submitted to IDEP.
 * Recommended metadata elements: these elements are not mandatory, but if provided they will greatly increase the discoverability of the resources and provide contextualized information that helps end users evaluate and understand the results of their search.
-* 
+*
 Additionally, the Digital Library can build more robust services (such as advanced search features) around richer metadata. If metadata contributors are unable to provide the recommended elements themselves, we encourage them to consult with the UCLA Digital Library and/or collaborate with other partners to add to or enhance the records.
 
 ## Metadata Template

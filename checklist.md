@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Session Checklist (Print/Image)
+menu: true
+order: 5
 lang: eng
 ref: checklist
 permalink: /checklist

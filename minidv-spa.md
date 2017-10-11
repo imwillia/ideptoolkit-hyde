@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Transfert MiniDV
+menu: true
+order: 6
 lang: spa
 ref: minidv
 permalink: /minidv-spa
