@@ -26,10 +26,10 @@
         {% endif %}
       {% endfor %}
     </nav>
-    <nav class="sidebar-nav-lang">
+    <nav class="sidebar-nav">
       {% assign pages=site.pages | where:"ref", "home" | sort: 'lang' %}
       {% for page in pages %}
-        <a class="sidebar-nav-lang-item" href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+        <a class="sidebar-nav-item" href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
       {% endfor %}
       </ul>
       <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
