@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Session Checklist (Print/Image)
+title: Աշխատաշրջանի ստուգացանք (Տպագիր/Պատկեր)
+menu: true
+order: 5
 lang: arm
 ref: checklist
 permalink: /checklist-arm
@@ -11,7 +13,7 @@ permalink: /checklist-arm
 ### Տեսախցիկի կարգավորումներ
 
 Համոզվեք, որ՝
-* ոսպնյակներում ֆոկուսը կարգավորված է A-ի վրա,  
+* ոսպնյակներում ֆոկուսը կարգավորված է A-ի վրա,
 * ISO-ն կարգավորված է 100-ի,
 * MODE-ը կարգավորված է  M-ի,
 * Բացվածքը կարգավորված է f8-ի և f11-ի միջև (սկսեք f8-ով),
