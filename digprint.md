@@ -93,7 +93,7 @@ permalink: /digprint
 1. Review the Camera and Lens manuals before beginning.
 2. Place camera and lens on a clean surface in a dust free room.
   * Remove front and rear caps from lens
-  * Remove body cap from the camera.
+  * Remove body cap from the camera.
   * Use dust removal tool ("Rocket Air Blaster") to clear any dust from the rear and front glass on the lens.
 3. Attach lens to the camera. Align the lens Aperture/mounting Index Line with the white Lens Mounting Mark on the camera body (see Nikon D810 manual diagram, page 2, item 11).
 
