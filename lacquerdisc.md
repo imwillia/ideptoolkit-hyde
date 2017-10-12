@@ -74,7 +74,7 @@ When cleaning is complete, remove most of the fluid by sweeping it up into the c
 
 9. RINSING: Saturate a second wet brush with distilled water from a clean container. Spread water around the disc to remove the excess cleaner using the same technique as in the cleaner application step. Avoid wetting the label. Remove residual rinse water from the grooves with a cotton square. Use the slightly dampened cloth to gently wipe label. Always remove any excess water from labels by patting, not wiping.
 
-    *Keep brushes and drying clothes used for cleaner and water separate. 3 separate sets should be used for regular strength cleaner, augmented cleaner and water. You may want to label the brushes to avoid confusion.*
+*Keep brushes and drying clothes used for cleaner and water separate. 3 separate sets should be used for regular strength cleaner, augmented cleaner and water. You may want to label the brushes to avoid confusion.*
 
 10. DRYING: After cleaning and rinsing the reverse side, allow the record to thoroughly air dry (3-6 min), depending on humidity and airflow before digitizing or storing. Used a plastic drying dish rack or something similar.
 
