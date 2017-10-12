@@ -93,7 +93,7 @@ AVCVideoCap however will not capture HDV content. For tapes containing HDV, you 
   3.  Rewind your tape if it isn’t already at the start of the recording.
   4.  Push “Play” and briefly review the aspect ratio, video and audio specifications. The LCD screen located on the front of the video deck will show the picture. Sound can be monitored with headphones plugged into the green headphone jack in the front of the deck. The audio sampling rate for your recording will automatically display on the LCD screen. Make sure the Audio Mode of the deck is set to match the original sampling rate of the recording. To do this go to: Menu>Audio Set>Audio Mode. Here you can adjust between 48 kHz or 32 kHz.
 
-**Initiate transfer of DV/DVCAM: **
+**Initiate transfer of DV/DVCAM:**
   1. For DV or DVCAM open capture software called AVCVideoCap by either:
     * Typing AVCVideoCap in Mac Spotlight search field or,
     * Goto: **Macintosh HD>Developer>FireWireSDK26>Applications>AVCVideoCap.app**
