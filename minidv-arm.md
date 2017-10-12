@@ -14,7 +14,7 @@ permalink: /minidv-arm
 ![](../assets/img/minidv/video_deck.png)
 2. FireWire 800/400 9-Pin/6-Pin մալուխ
 ![](../assets/img/minidv/firewire.png)
-3. Apple Thunderbolt to FireWire Հարմարակցիչ՝ **երիզի անհրաժեշտ վերանորոգումների համար** **(4-6)****.**
+3. Apple Thunderbolt to FireWire Հարմարակցիչ՝ **երիզի անհրաժեշտ վերանորոգումների համար (4-6).**
 ![](../assets/img/minidv/firewire_adapter.png)
 4. 1⁄4" միակցված երիզ
 ![](../assets/img/minidv/splicing_tape.png)
@@ -22,7 +22,7 @@ permalink: /minidv-arm
 ![](../assets/img/minidv/screwdriver.png)
 6. Մեկ կողմով ածելի կամ սուր մկրատ՝
 ![](../assets/img/minidv/razor.png)![](../assets/img/minidv/scissor.png)
-**տեսագրիչի գլխիկները մաքրելու, երբ դրանք խցանվեն** **(7-8)****.**
+**տեսագրիչի գլխիկները մաքրելու, երբ դրանք խցանվեն (7-8).**
 7. Բամբակից զերծ վիրախծուծներ (տեսագրիչի գլխիկները մաքրելու համար)
 ![](../assets/img/minidv/swabs.png)
 8. Իսոպրոպիլ սպիրտ (99%) (տեսագրիչի գլխիկները մաքրելու համար)
