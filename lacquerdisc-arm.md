@@ -123,9 +123,12 @@ permalink: /lacquer-arm
 
 1. Ե՛վ Variable-ի (փոփոխական)/Calibrated-ի(տրամաչափված)փոխարինումը կարգավորեք Calibrated-ի (տրամաչափված):
 2. «Gain»փոխարկիչը փոխարինեք «0»-ով:
-3. Սեղմեք և բաց թողեք «Mode Switch up»-ը՝ պտտվելու փորձնական չափի բիթի խորության ընտրանքներիմիջոցով՝ «Aux Output»-ի համար: Black = Lit White = Not Lit Gray = Irrelevant
-![](../assets/img/lacq/image03.jpg)
+3. Սեղմեք և բաց թողեք «Mode Switch up»-ը՝ պտտվելու փորձնական չափի բիթի խորության ընտրանքներիմիջոցով՝ «Aux Output»-ի համար: ![](../assets/img/lacq/image03.jpg)
 ![](../assets/img/lacq/image25.jpg)
+* Black = Lit 
+* White = Not Lit 
+* Gray = Irrelevant
+
 4. « Meter Switch»-ը կարգավորեք«H»-ի (ամենավերևում)՝ միացնելու «Peak Hold» գործառույթը, իսկ չափացույցը կարգավորել 1 dB քայլի:
 ![](../assets/img/lacq/image17.jpg)
 
