@@ -141,9 +141,9 @@ Para verificar con precisión la fuerza de rastreo vertical, usa un medidor de p
 3. Presiona y suelta el botón Modo Switch para pasar por las opciones de frecuencia de muestreo y profundidad de bits para la salida auxiliar.
 ![](../assets/img/lacq/image03.jpg)
 ![](../assets/img/lacq/image25.jpg)
-Negro = Encendido
-Blanco = No Encendido
-Gris = Irrelevante
+* Negro = Encendido
+* Blanco = No Encendido
+* Gris = Irrelevante
 
 4. Ajusta el interruptor de medición a "H" (arriba) para habilitar la función Peak Hold y ajustar la escala a peldaños de 1dB.
 ![](../assets/img/lacq/image17.jpg)
