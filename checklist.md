@@ -33,9 +33,9 @@ Make Sure:
     * Give the session a name (ex. soviet02, film03, etc.)
     * Next to Template, choose Edit from the pulldown menu
       * In the text box, delete the pattern that is there
-      * Type in the filename prefix followed by an underscore “_” (ex. soviet_ )
+      * Type in the filename prefix followed by an underscore `_` (ex. `soviet_`)
       * In the Number section, choose Sequence # (00001) and Insert
-      * The template should like something like: “soviet_ Sequence # (00001)
+      * The template should like something like: `soviet_ Sequence # (00001)`
       * Click on Done
       * Click OK
 
