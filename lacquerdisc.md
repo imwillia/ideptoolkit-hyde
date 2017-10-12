@@ -142,9 +142,9 @@ To accurately verify your vertical racking force, use a stylus pressure gauge. I
 3. Press-and-release the Mode Switch up to cycle through the sample rate and bit depth options for the Aux Output.
 ![](../assets/img/lacq/image03.jpg)
 ![](../assets/img/lacq/image25.jpg)
-Black = Lit
-White = Not Lit
-Gray = Irrelevant
+    * Black = Lit
+    * White = Not Lit
+    * Gray = Irrelevant
 
 4. Set the Meter Switch to “H” (top) to enable the Peak Hold function and set the scale to a 1 dB step.
 ![](../assets/img/lacq/image17.jpg)
