@@ -109,5 +109,5 @@ Export image batch as TIFF
   * In File Settings section, set file extension to TIFF
   * Export
 
-Give the external drive with the new batch of images to the metadata team
+Give the external drive with the new batch of images to the metadata team.
 Done!
