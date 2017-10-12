@@ -130,7 +130,7 @@ To accurately verify your vertical racking force, use a stylus pressure gauge. I
 
 6. To use the preamp to reduce noise during playback press IN both the Stereo/Mono and Lateral/Vertical selector buttons located under the Process buttons. When these buttons are pushed IN, Mono and Vertical are selected.
 
-    Move the Mono Mix dial left and right as necessary during initial playback to select the setting at which the least amount of program material can be heard. This will ensure noise will be reduced during playback. Once the Mono Mix dial is set to the correct position, press the Stereo/Mono and Lateral/Vertical selector buttons again, this time both buttons should both be raised and OUT, to select Stereo and Lateral playback. Program material should be heard at this point, with reduced noise.
+Move the Mono Mix dial left and right as necessary during initial playback to select the setting at which the least amount of program material can be heard. This will ensure noise will be reduced during playback. Once the Mono Mix dial is set to the correct position, press the Stereo/Mono and Lateral/Vertical selector buttons again, this time both buttons should both be raised and OUT, to select Stereo and Lateral playback. Program material should be heard at this point, with reduced noise.
 
 7. Check that the Gain knob is set to “0.”
 
