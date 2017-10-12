@@ -44,7 +44,8 @@ permalink: /terms-arm
 * Bacot family papers [տրամադրված]
 * Sonatas for violin and piano [տառադարձված]
 * Australian aboriginal painting about AIDS [տրամադրված]
-* 1965 cityscape of Los Angeles looking northwest toward Santa Monica Mountains [տրամադրված]```
+* 1965 cityscape of Los Angeles looking northwest toward Santa Monica Mountains [տրամադրված]
+```
 
 ### 2. Ֆայլի անունը և նույնացուցիչները
 
