@@ -74,7 +74,7 @@ permalink: /lacquer
 
 9. RINSING: Saturate a second wet brush with distilled water from a clean container. Spread water around the disc to remove the excess cleaner using the same technique as in the cleaner application step. Avoid wetting the label. Remove residual rinse water from the grooves with a cotton square. Use the slightly dampened cloth to gently wipe label. Always remove any excess water from labels by patting, not wiping.
 
-  *Keep brushes and drying clothes used for cleaner and water separate. 3 separate sets should be used for regular strength cleaner, augmented cleaner and water. You may want to label the brushes to avoid confusion.*
+    *Keep brushes and drying clothes used for cleaner and water separate. 3 separate sets should be used for regular strength cleaner, augmented cleaner and water. You may want to label the brushes to avoid confusion.*
 
 10. DRYING: After cleaning and rinsing the reverse side, allow the record to thoroughly air dry (3-6 min), depending on humidity and airflow before digitizing or storing. Used a plastic drying dish rack or something similar.
 
@@ -91,7 +91,7 @@ Before playing a disc on the turntable, make the following preparations:
 
 4. For testing of tonearm and cartridge alignment use a generic stylus that fits the cartridge. For the Shure M44-7 cartridge use a Shure N44-7 replacement stylus. The specially sized styli actually used for the transfers are custom made by Expert Styli in the United Kingdom and require 6-8 weeks to make. They are very fragile and require careful handling.
 
-Proper stylus handling guidelines: Never directly handle the stylus by metal components, either the actual needle or cantilever. Carefully hold the sides of the plastic assembly when inserting into or removing from the cartridge.
+    Proper stylus handling guidelines: Never directly handle the stylus by metal components, either the actual needle or cantilever. Carefully hold the sides of the plastic assembly when inserting into or removing from the cartridge.
 ![](../assets/img/lacq/image10.jpg)
 
 5. Next, align the cartridge. Holding the tone arm tube in one hand, insert the cartridge and headshell assembly into the tube lock with the other hand. Turn the lock ring counterclockwise until the headshell is locked securely into the tone arm. Place the needle on record. View the needle from the front and ensure that the needle is perpendicular to the record surface. Using a flashlight, illuminate the surface of the disc and verify that the cartridge is reflected as an exact mirror image on the surface. If some adjustment is needed, simply loosen the lock ring and rotate the cartridge-headshell until the needle is perpendicular to the record surface. Then re-tighten the lock ring.
@@ -130,7 +130,7 @@ To accurately verify your vertical racking force, use a stylus pressure gauge. I
 
 6. To use the preamp to reduce noise during playback press IN both the Stereo/Mono and Lateral/Vertical selector buttons located under the Process buttons. When these buttons are pushed IN, Mono and Vertical are selected.
 
-Move the Mono Mix dial left and right as necessary during initial playback to select the setting at which the least amount of program material can be heard. This will ensure noise will be reduced during playback. Once the Mono Mix dial is set to the correct position, press the Stereo/Mono and Lateral/Vertical selector buttons again, this time both buttons should both be raised and OUT, to select Stereo and Lateral playback. Program material should be heard at this point, with reduced noise.
+    Move the Mono Mix dial left and right as necessary during initial playback to select the setting at which the least amount of program material can be heard. This will ensure noise will be reduced during playback. Once the Mono Mix dial is set to the correct position, press the Stereo/Mono and Lateral/Vertical selector buttons again, this time both buttons should both be raised and OUT, to select Stereo and Lateral playback. Program material should be heard at this point, with reduced noise.
 
 7. Check that the Gain knob is set to “0.”
 
