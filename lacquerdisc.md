@@ -91,7 +91,7 @@ Before playing a disc on the turntable, make the following preparations:
 
 4. For testing of tonearm and cartridge alignment use a generic stylus that fits the cartridge. For the Shure M44-7 cartridge use a Shure N44-7 replacement stylus. The specially sized styli actually used for the transfers are custom made by Expert Styli in the United Kingdom and require 6-8 weeks to make. They are very fragile and require careful handling.
 
-    Proper stylus handling guidelines: Never directly handle the stylus by metal components, either the actual needle or cantilever. Carefully hold the sides of the plastic assembly when inserting into or removing from the cartridge.
+Proper stylus handling guidelines: Never directly handle the stylus by metal components, either the actual needle or cantilever. Carefully hold the sides of the plastic assembly when inserting into or removing from the cartridge.
 ![](../assets/img/lacq/image10.jpg)
 
 5. Next, align the cartridge. Holding the tone arm tube in one hand, insert the cartridge and headshell assembly into the tube lock with the other hand. Turn the lock ring counterclockwise until the headshell is locked securely into the tone arm. Place the needle on record. View the needle from the front and ensure that the needle is perpendicular to the record surface. Using a flashlight, illuminate the surface of the disc and verify that the cartridge is reflected as an exact mirror image on the surface. If some adjustment is needed, simply loosen the lock ring and rotate the cartridge-headshell until the needle is perpendicular to the record surface. Then re-tighten the lock ring.
