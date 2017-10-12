@@ -44,7 +44,8 @@ permalink: /terms-arm
 * Bacot family papers [տրամադրված]
 * Sonatas for violin and piano [տառադարձված]
 * Australian aboriginal painting about AIDS [տրամադրված]
-* 1965 cityscape of Los Angeles looking northwest toward Santa Monica Mountains [տրամադրված]```
+* 1965 cityscape of Los Angeles looking northwest toward Santa Monica Mountains [տրամադրված]
+```
 
 ### 2. Ֆայլի անունը և նույնացուցիչները
 
@@ -84,12 +85,14 @@ permalink: /terms-arm
 ՕՐԻՆԱԿՆԵՐ(Ստեղծող)
 * Master of Saint Francis (Italian, active 2nd half of 13th century) [նկարչի անվան օրինակ ULAN-ից]
 * Big Deal Design (Firm) [նախագծողի անուն՝LCNAF-ից]
-* Unknown Tahitian artist [artist's name from local authority file (ստեղծվել է CCO ուղեցույցների համաձայն)]```
+* Unknown Tahitian artist [artist's name from local authority file (ստեղծվել է CCO ուղեցույցների համաձայն)]
+```
 
 ```
 ՕՐԻՆԱԿՆԵՐ(Աջակցող)
 * Landsforeningen for bøsser og lesbiske [հրատարակող, LCNAF-ից]
-* Dickinson, John [նախագծող, ULAN-ից]```
+* Dickinson, John [նախագծող, ULAN-ից]
+```
 
 ##### Չափանիշներ և ուղեցույցներ
 
@@ -110,7 +113,8 @@ permalink: /terms-arm
 ```
 ՕՐԻՆԱԿՆԵՐ
 * Կոպենհագեն (Դանիա)
-* Հավանա```
+* Հավանա
+```
 
 ##### Չափանիշներ և ուղեցույցներ
 
@@ -165,7 +169,8 @@ permalink: /terms-arm
 ՕՐԻՆԱԿՆԵՐ
 * ara [Արաբերեն]
 * eng [Անգլերեն]
-* jpn [Ճապոներեն]```
+* jpn [Ճապոներեն]
+```
 
 ##### Այլ չափանիշներ և ուղեցույցներ
 
@@ -207,7 +212,8 @@ permalink: /terms-arm
 * Type.typeOfResource: ձայնի արձանագրություն
 * Type.genre: պոստերներ
 * Type.genre: Պարբերականներ
-* Type.genre: Spaghetti Westerns```
+* Type.genre: Spaghetti Westerns
+```
 
 **Այլ չափանիշներ և ուղեցույցներ**
 
@@ -241,7 +247,8 @@ permalink: /terms-arm
 * PhysicalDescription.dimensions: 61 x 43 cm. (24 x 17 in.) [պոստեր]
 * PhysicalDescription.extent: 95 min. [ֆիլմ]
 * PhysicalDescription.dimensions: 161.5 cm. (շրջանակ, ոլորտ) [գլոբուս]
-* PhysicalDescription.medium: pen and ink on paper```
+* PhysicalDescription.medium: pen and ink on paper
+```
 
 ### 9. Հաստատություն/շտեմարան (Պահանջվում է)
 
@@ -256,7 +263,8 @@ permalink: /terms-arm
 ```
 ՕՐԻՆԱԿՆԵՐ
 * Charles E. Young Research Library. Department of Special Collections
-* Vorderasiatisches Museum (Berlin, Germany)```
+* Vorderasiatisches Museum (Berlin, Germany)
+```
 
 ### 10. Իրավունքներ (Պահանջվում է)
 
@@ -291,7 +299,8 @@ permalink: /terms-arm
 ՕՐԻՆԱԿՆԵՐ
 * Rights.copyrightStatus: copyrighted
 * Rights.publicationStatus: published
-* Rights.servicesContact: Doe, John (jdoe@email.edu)```
+* Rights.servicesContact: Doe, John (jdoe@email.edu)
+```
 
 ### 11. Նկարագրություն (Առաջարկվող)
 
@@ -306,7 +315,8 @@ permalink: /terms-arm
 ```
 ՕՐԻԱՆԿՆԵՐ
 * Description.note: Date on back of poster, 1997, reflects when the vendor received the copy later acquired by the UCLA Library.
-* Description.inscription: "Longhaired" Palisades High School students protest school's demand that they get hair cut. [from caption on resource.]```
+* Description.inscription: "Longhaired" Palisades High School students protest school's demand that they get hair cut. [from caption on resource.]
+```
 
 ### 12. Սուբյեկտ (Առաջարկված)
 
@@ -325,7 +335,8 @@ permalink: /terms-arm
 ```
 ՕՐԻՆԱԿՆԵՐ
 * Antoniani, Pietro, d ca. 1740-1805
-* Institute without Boundaries```
+* Institute without Boundaries
+```
 
 ##### B. Վերնագրեր
 
@@ -340,7 +351,8 @@ permalink: /terms-arm
 ```
 ՕՐԻԱՆԿՆԵՐ
 * Bible. O.T. Psalms
-* Maha bha rata```
+* Maha bha rata
+```
 
 ##### C. Վայր
 
@@ -362,7 +374,8 @@ permalink: /terms-arm
 EXAMPLES
 * Subject.place: Acequia Madre de Santa Barbara
 * Subject.country: Iran
-* Subject.city: Yerevan```
+* Subject.city: Yerevan
+```
 
 ##### D. Թեմա
 
@@ -379,7 +392,8 @@ EXAMPLES
 * Fruit crate labels
 * Depression (Mental state)
 * Regional planning
-* antimacassars```
+* antimacassars
+```
 
 ### 13. Կապ (Առաջարկված)
 
@@ -399,7 +413,8 @@ EXAMPLES
 ՕՐԻՆԱԿՆԵՐ
 * Relation.hasVersion: IFDC report (Spanish edition) [example of a version in another edition, language, etc.]
 * Relation.hasFormat: CD-ROM version: Health literacy. Washington, D.C. : National Academies Press, c2004.
-* Relation.derivedFrom: Michelangelo Buonarroti, 1475-1564. Creation of Adam. [example of a work inspired by this painting]```
+* Relation.derivedFrom: Michelangelo Buonarroti, 1475-1564. Creation of Adam. [example of a work inspired by this painting]
+```
 
 ### 14. Աղբյուր (Առաջարկվող)
 
@@ -419,4 +434,5 @@ EXAMPLES
 ```
 ՕՐԻՆԱԿՆԵՐ
 * BM XV cent., II, p. 346 (IB.5874)
-* Smithsonian Archives Record Unit 54, Joseph Henry Collection, 1808, 1825-1878, Box 1, Folder 6, Item 3```
+* Smithsonian Archives Record Unit 54, Joseph Henry Collection, 1808, 1825-1878, Box 1, Folder 6, Item 3
+```
