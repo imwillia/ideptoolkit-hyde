@@ -115,7 +115,7 @@ EXAMPLES
 
 ##### Standards and Guidelines
 
-* [Thesaurus of Geographic Names (TGN)](http://www.w3.org/TR/NOTE-datetime)
+* [Thesaurus of Geographic Names (TGN)](http://www.getty.edu/research/tools/vocabularies/tgn/index.html)
 * [Library of Congress Name Authority file (LCNAF](http://authorities.loc.gov))
 
 ### 5. Date (Required)
@@ -210,7 +210,7 @@ EXAMPLES
 
 For **Type.genre:**
 
-* ** Art & Architecture Thesaurus Online (AAT)** (preferred)
+* **Art & Architecture Thesaurus Online (AAT)** (preferred)
 * Basic Genre Terms for Cultural Heritage Materials (BGTCHM)
 * Library of Congress Subject Headings (LCSH)
 * Rare Books and Manuscripts Section Controlled Vocabularies (RBMS)

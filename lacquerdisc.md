@@ -68,13 +68,13 @@ permalink: /lacquer
 
 8. APPLYING CLEANER: Place the disc flat on the work surface. Apply cleaner to the wet cleaning brush (distinguished by the black cleaning pads) so that the fiber surface is almost fully saturated with fluid. For a standard 12” LP-sized brush, 2-3 ml is recommended by the manufacturer for the initial wetting and approx. half as much for subsequent sides. More will be needed for a 16” disc.
 
-  Lightly run the saturated brush completely around the disc to wet the entire surface. Avoid wetting the record label. Then clean 1/3 of the grooved surface at a time with three back and forth sweeps. Apply enough pressure on the brush to ensure good contact without crushing the pad into the grooves. The movement of the fluid is cleaning the groove walls. The brush is simply helping the fluid to move around. There should be enough fluid in the brush to provide a small puddle in front of the moving brush. Move this puddle around as cleaning progresses.
+    Lightly run the saturated brush completely around the disc to wet the entire surface. Avoid wetting the record label. Then clean 1/3 of the grooved surface at a time with three back and forth sweeps. Apply enough pressure on the brush to ensure good contact without crushing the pad into the grooves. The movement of the fluid is cleaning the groove walls. The brush is simply helping the fluid to move around. There should be enough fluid in the brush to provide a small puddle in front of the moving brush. Move this puddle around as cleaning progresses.
 
-  When cleaning is complete, remove most of the fluid by sweeping it up into the cleaning brush as you lightly drag it around the disc surface. Remove residual fluid from the disc with a cotton cloth. Remove residual cleaner from the brush by gently squeezing the upper pile of the cleaning pad with the plastic handle of a clean toothbrush or a plastic scraper. **Never dry the record completely by scrubbing with cloth or paper as this introduces static.**
+    When cleaning is complete, remove most of the fluid by sweeping it up into the cleaning brush as you lightly drag it around the disc surface. Remove residual fluid from the disc with a cotton cloth. Remove residual cleaner from the brush by gently squeezing the upper pile of the cleaning pad with the plastic handle of a clean toothbrush or a plastic scraper. **Never dry the record completely by scrubbing with cloth or paper as this introduces static.**
 
 9. RINSING: Saturate a second wet brush with distilled water from a clean container. Spread water around the disc to remove the excess cleaner using the same technique as in the cleaner application step. Avoid wetting the label. Remove residual rinse water from the grooves with a cotton square. Use the slightly dampened cloth to gently wipe label. Always remove any excess water from labels by patting, not wiping.
 
-  *Keep brushes and drying clothes used for cleaner and water separate. 3 separate sets should be used for regular strength cleaner, augmented cleaner and water. You may want to label the brushes to avoid confusion.*
+    *Keep brushes and drying clothes used for cleaner and water separate. 3 separate sets should be used for regular strength cleaner, augmented cleaner and water. You may want to label the brushes to avoid confusion.*
 
 10. DRYING: After cleaning and rinsing the reverse side, allow the record to thoroughly air dry (3-6 min), depending on humidity and airflow before digitizing or storing. Used a plastic drying dish rack or something similar.
 
@@ -91,12 +91,12 @@ Before playing a disc on the turntable, make the following preparations:
 
 4. For testing of tonearm and cartridge alignment use a generic stylus that fits the cartridge. For the Shure M44-7 cartridge use a Shure N44-7 replacement stylus. The specially sized styli actually used for the transfers are custom made by Expert Styli in the United Kingdom and require 6-8 weeks to make. They are very fragile and require careful handling.
 
-Proper stylus handling guidelines: Never directly handle the stylus by metal components, either the actual needle or cantilever. Carefully hold the sides of the plastic assembly when inserting into or removing from the cartridge.
+    Proper stylus handling guidelines: Never directly handle the stylus by metal components, either the actual needle or cantilever. Carefully hold the sides of the plastic assembly when inserting into or removing from the cartridge.
 ![](../assets/img/lacq/image10.jpg)
 
-6. Next, align the cartridge. Holding the tone arm tube in one hand, insert the cartridge and headshell assembly into the tube lock with the other hand. Turn the lock ring counterclockwise until the headshell is locked securely into the tone arm. Place the needle on record. View the needle from the front and ensure that the needle is perpendicular to the record surface. Using a flashlight, illuminate the surface of the disc and verify that the cartridge is reflected as an exact mirror image on the surface. If some adjustment is needed, simply loosen the lock ring and rotate the cartridge-headshell until the needle is perpendicular to the record surface. Then re-tighten the lock ring.
+5. Next, align the cartridge. Holding the tone arm tube in one hand, insert the cartridge and headshell assembly into the tube lock with the other hand. Turn the lock ring counterclockwise until the headshell is locked securely into the tone arm. Place the needle on record. View the needle from the front and ensure that the needle is perpendicular to the record surface. Using a flashlight, illuminate the surface of the disc and verify that the cartridge is reflected as an exact mirror image on the surface. If some adjustment is needed, simply loosen the lock ring and rotate the cartridge-headshell until the needle is perpendicular to the record surface. Then re-tighten the lock ring.
 
-7. Adjust the tonearm height. The Jelco (model SA-750L) tonearm height is controlled by a set screw at the base of the tonearm. Loosen the screw with an Allen wrench to manually adjust the tonearm pillar up or down. To help support the tonearm during adjustments use a deck of cards for testing height. Place cards between the tonearm collar and the tonearm, adding and removing cards as needed to adjust height. If possible the tonearm should be approximately parallel to the surface of the platter. Also, the rear of the cartridge should not touch the disc surface, which can cause damage and introduce noise. The unique custom setup of this turntable to accommodate 16” discs may make it challenging to place the tonearm parallel as the platter requires raised mats to avoid touching the on/off button during playback. In this case verifying that the cartridge is well positioned is the most important step.
+6. Adjust the tonearm height. The Jelco (model SA-750L) tonearm height is controlled by a set screw at the base of the tonearm. Loosen the screw with an Allen wrench to manually adjust the tonearm pillar up or down. To help support the tonearm during adjustments use a deck of cards for testing height. Place cards between the tonearm collar and the tonearm, adding and removing cards as needed to adjust height. If possible the tonearm should be approximately parallel to the surface of the platter. Also, the rear of the cartridge should not touch the disc surface, which can cause damage and introduce noise. The unique custom setup of this turntable to accommodate 16” discs may make it challenging to place the tonearm parallel as the platter requires raised mats to avoid touching the on/off button during playback. In this case verifying that the cartridge is well positioned is the most important step.
 
 ### Stylus pressure
 To accurately verify your vertical racking force, use a stylus pressure gauge. If too much weight is placed on the stylus it can cause damage to both the disc and the needle. The tracking force for these styli should be between 3 to 3.5 grams.
@@ -130,7 +130,7 @@ To accurately verify your vertical racking force, use a stylus pressure gauge. I
 
 6. To use the preamp to reduce noise during playback press IN both the Stereo/Mono and Lateral/Vertical selector buttons located under the Process buttons. When these buttons are pushed IN, Mono and Vertical are selected.
 
-Move the Mono Mix dial left and right as necessary during initial playback to select the setting at which the least amount of program material can be heard. This will ensure noise will be reduced during playback. Once the Mono Mix dial is set to the correct position, press the Stereo/Mono and Lateral/Vertical selector buttons again, this time both buttons should both be raised and OUT, to select Stereo and Lateral playback. Program material should be heard at this point, with reduced noise.
+    Move the Mono Mix dial left and right as necessary during initial playback to select the setting at which the least amount of program material can be heard. This will ensure noise will be reduced during playback. Once the Mono Mix dial is set to the correct position, press the Stereo/Mono and Lateral/Vertical selector buttons again, this time both buttons should both be raised and OUT, to select Stereo and Lateral playback. Program material should be heard at this point, with reduced noise.
 
 7. Check that the Gain knob is set to “0.”
 
@@ -142,9 +142,9 @@ Move the Mono Mix dial left and right as necessary during initial playback to se
 3. Press-and-release the Mode Switch up to cycle through the sample rate and bit depth options for the Aux Output.
 ![](../assets/img/lacq/image03.jpg)
 ![](../assets/img/lacq/image25.jpg)
-Black = Lit
-White = Not Lit
-Gray = Irrelevant
+    * Black = Lit
+    * White = Not Lit
+    * Gray = Irrelevant
 
 4. Set the Meter Switch to “H” (top) to enable the Peak Hold function and set the scale to a 1 dB step.
 ![](../assets/img/lacq/image17.jpg)
@@ -250,7 +250,8 @@ DRY Brush for final brushing of shellacs, lacquers and diamond
 
 ![](../assets/img/lacq/image07.jpg)
 Disc Doctor cleaning solutions (regular and augmented versions)
-    * Ingredients: Water (purified by reverse osmosis); non-hazardous, biodegradable 1-hydroxypropane and non-ionic surfactants.
+
+ * Ingredients: Water (purified by reverse osmosis); non-hazardous, biodegradable 1-hydroxypropane and non-ionic surfactants.
 
 ![](../assets/img/lacq/image08.jpg)
 Shure Stylus Force Gauge

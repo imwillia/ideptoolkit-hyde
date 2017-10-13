@@ -20,65 +20,65 @@ permalink: /digprint
   * 60mm prime lens (Note: this is the preferred reproduction lens)
 ![](../assets/img/digprint/image7.png)![](../assets/img/digprint/image8.png)
 
-4. Camera battery charger
+3. Camera battery charger
 ![](../assets/img/digprint/image29.png)
 
-5. Lighting kit: flash heads, charger, battery pack, extra batteries, case
+4. Lighting kit: flash heads, charger, battery pack, extra batteries, case
 ![](../assets/img/digprint/image22.png)
 
-6. Lighting kit extension cables (2)
+5. Lighting kit extension cables (2)
 ![](../assets/img/digprint/image2.png)
 
-7. Softboxes (2)
+6. Softboxes (2)
 ![](../assets/img/digprint/image12.png)
 
-8. Speedrings (4) Note: Only 2 are needed; the other 2 are backups in case of breakage.
+7. Speedrings (4) Note: Only 2 are needed; the other 2 are backups in case of breakage.
 ![](../assets/img/digprint/image33.png)
 
-9. Light stands (2) - These are *reverse* stands, so they will look like ![Figure 1](../assets/img/digprint/image11.png) until they are fully extended, then they will look like
+8. Light stands (2) - These are *reverse* stands, so they will look like ![Figure 1](../assets/img/digprint/image11.png) until they are fully extended, then they will look like
 ![Figure 2](../assets/img/digprint/image19.png)
 
-10. Wireless remote which controls the flash. Requires 2 AAA batteries.
+9. Wireless remote which controls the flash. Requires 2 AAA batteries.
 ![](../assets/img/digprint/image17.png)
 
-11. USB3 cable for tethering to computer
+10. USB3 cable for tethering to computer
 ![](../assets/img/digprint/image6.png)
 
-12. Tripod with 90-degree capable center column
+11. Tripod with 90-degree capable center column
 ![](../assets/img/digprint/image32.png)![](../assets/img/digprint/image37.jpg)
 
-13. Tripod head and quick release plate
+12. Tripod head and quick release plate
 ![](../assets/img/digprint/image35.png)
 
-14. Cable shutter release
+13. Cable shutter release
 ![](../assets/img/digprint/image15.png)
 
-15. XRite Color Checker reference target and software
+14. XRite Color Checker reference target and software
 ![](../assets/img/digprint/image34.png)
 
-16. Memory cards
+15. Memory cards
 ![](../assets/img/digprint/image10.png)
 
-17. Equipment manuals
+16. Equipment manuals
 * Nikon D810
 * Nikon 60mm lens
 * Profoto B2 Location Kit
 * Manfrotto Geared Tripod Head 410
 * Manfrotto Carbon Fiber Tripod with Center Column MT055CXPRO
 
-18. Dust removal tool - Rocket Air Blaster
+17. Dust removal tool - Rocket Air Blaster
 ![](../assets/img/digprint/image14.png)
 
-19. Gaffer & artist tapes
+18. Gaffer & artist tapes
 ![](../assets/img/digprint/image18.png)![](../assets/img/digprint/image20.png)
 
-20. Microfiber cleaning cloths
+19. Microfiber cleaning cloths
 ![](../assets/img/digprint/image31.png)
 
-21. External hard drives (may vary)
-22. AAA batteries for Profoto TTL Air Remote
-23. Carabiners, bungee cords, gear ties
-24. Colored background paper
+20. External hard drives (may vary)
+21. AAA batteries for Profoto TTL Air Remote
+22. Carabiners, bungee cords, gear ties
+23. Colored background paper
 
 ### Pre-capture preparation
 
@@ -92,9 +92,9 @@ permalink: /digprint
 
 1. Review the Camera and Lens manuals before beginning.
 2. Place camera and lens on a clean surface in a dust free room.
-  a. Remove front and rear caps from lens
-  b. Remove body cap from the camera.
-  c. Use dust removal tool ("Rocket Air Blaster") to clear any dust from the rear and front glass on the lens.
+  * Remove front and rear caps from lens
+  * Remove body cap from the camera.
+  * Use dust removal tool ("Rocket Air Blaster") to clear any dust from the rear and front glass on the lens.
 3. Attach lens to the camera. Align the lens Aperture/mounting Index Line with the white Lens Mounting Mark on the camera body (see Nikon D810 manual diagram, page 2, item 11).
 
 Example:
