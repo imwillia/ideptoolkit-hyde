@@ -250,7 +250,8 @@ DRY Brush for final brushing of shellacs, lacquers and diamond
 
 ![](../assets/img/lacq/image07.jpg)
 Disc Doctor cleaning solutions (regular and augmented versions)
-    * Ingredients: Water (purified by reverse osmosis); non-hazardous, biodegradable 1-hydroxypropane and non-ionic surfactants.
+
+ * Ingredients: Water (purified by reverse osmosis); non-hazardous, biodegradable 1-hydroxypropane and non-ionic surfactants.
 
 ![](../assets/img/lacq/image08.jpg)
 Shure Stylus Force Gauge
