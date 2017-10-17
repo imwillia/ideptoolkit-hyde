@@ -8,7 +8,7 @@ ref: lacquer
 permalink: /lacquer-spa
 ---
 
-### GUÍA RÁPIDA
+### Visión de conjunto
 
 ##### Evaluación y limpieza de discos
 * Agrupa los discos por condición
