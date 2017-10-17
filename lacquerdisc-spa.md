@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Transfert de disque de laque
+title: Transferencia de disco de laca
 menu: true
 order: 7
 lang: spa
