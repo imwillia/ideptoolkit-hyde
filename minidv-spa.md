@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Transfert MiniDV
+title: Transferencia de MiniDV
 menu: true
 order: 6
 lang: spa
