@@ -35,6 +35,13 @@
   text-transform: lowercase;
 }
 
+.am #navigation {
+float: right;
+display: inline;
+margin-left: 0px;
+margin-right: 360px;
+}
+
 html {
   font-family: "Noto Serif", Georgia, serif;
 }
