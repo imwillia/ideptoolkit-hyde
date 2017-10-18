@@ -9,7 +9,7 @@ permalink:        pretty
 title:            IDEP Partner Toolkit
 tagline:          'UCLA'
 description:      'A guide to standards and workflows for IDEP partner institutions.'
-url:              https://kirschbombe.github.io/ideptoolkit-hyde
+url:              https://dnoneill.github.io/ideptoolkit-hyde
 baseurl:          /ideptoolkit-hyde/
 
 author:
