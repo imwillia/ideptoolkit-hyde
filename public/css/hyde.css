@@ -35,11 +35,11 @@
   text-transform: lowercase;
 }
 
-.am #navigation {
-float: right;
-display: inline;
-margin-left: 0px;
-margin-right: 360px;
+div.content:lang(ar) { 
+    direction: rtl;
+}
+div.sidebar:lang(ar) { 
+  text-align: right;
 }
 
 html {
