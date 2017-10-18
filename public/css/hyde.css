@@ -36,10 +36,11 @@
 }
 
 div.content:lang(ar) { 
-    direction: rtl;
+     direction: rtl;
 }
+
 div.sidebar:lang(ar) { 
-  text-align: right;
+   text-align: right;
 }
 
 html {
