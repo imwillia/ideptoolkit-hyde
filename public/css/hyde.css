@@ -40,7 +40,8 @@ div.content:lang(ara) {
 }
 
 div.sidebar:lang(ara) {
-   text-align: right;
+   direction: rtl;
+   text-align:right;
 }
 
 html {
