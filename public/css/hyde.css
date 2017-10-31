@@ -35,6 +35,15 @@
   text-transform: lowercase;
 }
 
+div.content:lang(ara) {
+     direction: rtl;
+}
+
+div.sidebar:lang(ara) {
+   direction: rtl;
+   text-align:right;
+}
+
 html {
   font-family: "Noto Serif", Georgia, serif;
 }
